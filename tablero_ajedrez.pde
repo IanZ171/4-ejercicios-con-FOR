@@ -1,4 +1,3 @@
-int cant = 6;
 float ancho;
 float largo;
 
